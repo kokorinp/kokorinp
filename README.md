@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kokorinp
-- 👀 I'm interested in bicycles, cars, cryptocurrencies and guitar.
-- 🌱 I’m currently learning frontend.
 - 💞️ I'm looking for collaboration with a cool team of developers.
 - 📫 kokorinp@gmail.com
+- 
